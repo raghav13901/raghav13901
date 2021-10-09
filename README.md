@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 <!--
 **raghav13901/raghav13901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
